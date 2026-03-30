@@ -5,6 +5,7 @@
 Görme engelli bireyler için market alışverişi, paketli gıdaların içeriğine dair kritik bilgilerin (şeker, tuz, gluten, alerjenler vb.) ulaşılamaz olması nedeniyle ciddi bir sağlık riski ve bağımsızlık kısıtı barındırır. Mevcut teknolojiler sadece metin okumaya odaklanırken, kullanıcının özel sağlık profilini dikkate alan ve onlara güvenli tüketim kararı aldıran bir çözüm eksikliği bulunmaktadır.
 
 ✨ Çözüm
+
 EyeShopper, görme engelli bireylerin cebindeki "akıllı göz" ve "dijital diyetisyen"dir.
 
 Kişiselleştirilmiş Sağlık Profili: Kullanıcılar; diyabet, çölyak, hipertansiyon gibi durumlarını ve beslenme tercihlerini (vegan vb.) uygulamaya bir kez tanımlar.
@@ -21,6 +22,7 @@ Yayın Linki: https://eyeshopper-e8cba.web.app
 Demo Video: https://youtube.com/shorts/_TlLjZVZ-bs?feature=share
 
 🛠️ Kullanılan Teknolojiler
+
 Frontend: Flutter (Web & Mobile)
 
 AI Engine: Google Gemini 3 Flash (Görüntü İşleme & Akıl Yürütme)
@@ -32,6 +34,7 @@ Erişilebilirlik: Flutter Semantics (TalkBack & VoiceOver tam uyumluluğu)
 Ses Teknolojileri: Google Speech-to-Text (Sesli geri bildirimler için)
 
 🚀 Nasıl Çalıştırılır?
+
 Projeyi Klonlayın:
 Bash
 git clone https://github.com/nisakasikcii/eyeshopper_ai.git
