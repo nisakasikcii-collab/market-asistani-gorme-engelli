@@ -38,7 +38,7 @@ Ses Teknolojileri: Google Speech-to-Text (Sesli geri bildirimler için)
 Projeyi Klonlayın:
 
 Bash
-git clone https://github.com/nisakasikcii/eyeshopper_ai.git
+git clone https://github.com/nisakasikcii-collab/market-asistani-gorme-engelli.git
 cd eyeshopper_ai/mobile/flutter_app
 
 Bağımlılıkları Yükleyin:
