@@ -1,23 +1,38 @@
-# ES (EYESHOPPER AI)
+# EyeShopper AI - Akıllı Market Asistanı
 
-Bu proje `prd.md` ve `tasks.md` temel alınarak adım adım geliştirilmektedir.
+EyeShopper AI, görme engelli bireylerin market alışverişlerini daha güvenli ve bağımsız hale getirmek için geliştirilmiş yapay zeka destekli bir mobil asistandır.
 
-## Hızlı Genel Bakış
+## 🚀 Öne Çıkan Özellikler
 
-- `mobile/flutter_app`: Mobil uygulama klasörü (Flutter seçildi, kurulum adımları içeride).
-- `backend`: Flask tabanlı API ve servis altyapısı.
-- `docs/adr`: Mimari karar kayıtları.
-- `firebase`: Firebase kurulum notları ve örnek yapılandırmalar.
+- **Gelişmiş Kamera Analizi (ML Kit):** Gerçek zamanlı nesne algılama ve barkod tarama.
+- **Akıllı İçerik Dedektörü (OCR):** Ürün ambalajlarını saniyeler içinde tarayarak kritik içerikleri tespit eder.
+- **Kişiselleştirilmiş Sağlık Kontrolü:** 
+  - **Çölyak:** Gluten, buğday, un tespiti.
+  - **Diyabet:** Şeker, glikoz, tatlandırıcı tespiti.
+  - **Tansiyon:** Yüksek sodyum ve tuz tespiti.
+  - **Vegan:** Hayvansal gıda tespiti.
+- **Hasar Tespiti:** Ambalajdaki yırtık, delik veya hasarları algılayarak kullanıcıyı uyarır.
+- **Erişilebilir Geri Bildirim:** "Dikkat!" uyarılarıyla sertleştirilmiş, akıllı TTS (Sesli Yanıt) sistemi.
+- **Yüksek Performans:** Paralel ML işlemleri ve saniyede 2 kare (throttle) ile kasmadan akıcı çalışma.
 
-## Başlangıç
+## 📂 Proje Yapısı
 
-1. Python 3.11+ kur.
-2. `backend/.env.example` dosyasını `backend/.env` olarak kopyala.
-3. `backend` altında sanal ortam açıp bağımlılıkları yükle.
-4. API'yi `python run.py` ile ayağa kaldır.
+- `mobile/flutter_app`: Flutter ile geliştirilmiş erişilebilir mobil uygulama.
+- `backend`: Flask tabanlı API ve veri işleme altyapısı.
+- `docs/adr`: Mimari karar kayıtları (Architecture Decision Records).
+- `firebase`: Firebase yapılandırması ve bulut entegrasyonu.
 
-## Not
+## 🛠️ Kurulum
 
-Geliştirme listesi `C:\Users\nisak\Documents\tasks.md` sırasına göre ilerler.
+### Mobil (Flutter)
+1. `mobile/flutter_app` klasörüne gidin.
+2. `flutter pub get` komutunu çalıştırın.
+3. Uygulamayı başlatmak için `flutter run` komutunu kullanın.
 
-**Tamamlanan (liste güncel):** Bölüm 0’un çoğu (Firebase konsol bağlantısı hariç) ve Bölüm 1 (erişilebilirlik + TTS/STT). Mobil kod: `mobile/flutter_app`; ilk derleme için `scripts\bootstrap_flutter.ps1` çalıştırın.
+### Backend (Flask)
+1. Python 3.11+ yüklü olduğundan emin olun.
+2. `backend` klasöründe bir sanal ortam oluşturun ve `pip install -r requirements.txt` ile bağımlılıkları yükleyin.
+3. `python run.py` ile API'yi başlatın.
+
+---
+*Bu proje, görme engelli bireylerin günlük yaşam kalitesini artırmak amacıyla geliştirilmektedir.*
