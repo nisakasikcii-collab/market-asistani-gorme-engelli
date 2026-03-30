@@ -36,15 +36,18 @@ Ses Teknolojileri: Google Speech-to-Text (Sesli geri bildirimler için)
 🚀 Nasıl Çalıştırılır?
 
 Projeyi Klonlayın:
+
 Bash
 git clone https://github.com/nisakasikcii/eyeshopper_ai.git
 cd eyeshopper_ai/mobile/flutter_app
 
 Bağımlılıkları Yükleyin:
+
 Bash
 flutter pub get
 
 Uygulamayı Çalıştırın:
+
 Bash
 flutter run -d chrome
 
