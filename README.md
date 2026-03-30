@@ -1,5 +1,7 @@
 👁️ EyeShopper - Görme Engelliler İçin Kişiselleştirilmiş Sağlık ve Alışveriş Asistanı
+
 🚨 Problem
+
 Görme engelli bireyler için market alışverişi, paketli gıdaların içeriğine dair kritik bilgilerin (şeker, tuz, gluten, alerjenler vb.) ulaşılamaz olması nedeniyle ciddi bir sağlık riski ve bağımsızlık kısıtı barındırır. Mevcut teknolojiler sadece metin okumaya odaklanırken, kullanıcının özel sağlık profilini dikkate alan ve onlara güvenli tüketim kararı aldıran bir çözüm eksikliği bulunmaktadır.
 
 ✨ Çözüm
