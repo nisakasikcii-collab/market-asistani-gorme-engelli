@@ -1,4 +1,4 @@
-👁️ EyeShopper - Görme Engelliler İçin Kişiselleştirilmiş Sağlık ve Alışveriş Asistanı
+👁️ EyeShopper AI - Görme Engelliler İçin Kişiselleştirilmiş Sağlık ve Alışveriş Asistanı
 
 🚨 Problem
 
