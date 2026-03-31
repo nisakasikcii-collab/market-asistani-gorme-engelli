@@ -35,9 +35,13 @@ Ses Teknolojileri: Google Speech-to-Text (Sesli geri bildirimler için)
 
 Yazılım: VS CODE , Cursor , Trae 
 
-Yapay zeka: Gemini , Chatgbt , Claude
+Yapay zeka: Gemini , Chatgbt , Claude , Cursor AI, VS CODE AI , Trae AI
 
 Fikir: Perplexity
+
+Yayın: Firebase
+
+Video: Youtube , Capcut
 
 🚀 Nasıl Çalıştırılır?
 
