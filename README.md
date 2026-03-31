@@ -33,6 +33,12 @@ Erişilebilirlik: Flutter Semantics (TalkBack & VoiceOver tam uyumluluğu)
 
 Ses Teknolojileri: Google Speech-to-Text (Sesli geri bildirimler için)
 
+Yazılım: VS CODE , Cursor , Trae 
+
+Yapay zeka: Gemini , Chatgbt , Claude
+
+Fikir: Perplexity
+
 🚀 Nasıl Çalıştırılır?
 
 Projeyi Klonlayın:
